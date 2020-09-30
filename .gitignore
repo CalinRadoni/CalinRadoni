@@ -1,0 +1,13 @@
+# ignore archives
+*.7z
+*.zip
+
+# ignore auxiliary files from ESP-IDF and Visual Studio Code
+*.code-workspace
+/.vscode/.browse.VC.db
+/.venv/
+# this file should NOT be commited
+/dev.env
+
+# other
+/notes/
