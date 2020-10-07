@@ -1,0 +1,30 @@
+# Hi, I am Calin Radoni
+
+**... and I know that I should insert a nice image here** &#x1F643;
+
+and I like to build things.
+
+Now I am working with ESP32, WS2812* LEDs and ESP-IDF. The current hardware and software projects are:
+
+{% set repo = info.get_repo("pax-LampD1") -%}
+- {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
+{% set repo = info.get_repo("pax-Gateway") -%}
+- {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
+
+For those I have built some ESP-IDF components like:
+
+{% for repo in info.esp_components -%}
+- {{ info.get_repo_namelink_md(repo, False) }}<br/>{{ info.get_repo_info(repo) }}
+{% endfor %}
+
+Not as much as I want, I am writing about various subjects at [CalinRadoni.github.io](https://github.com/CalinRadoni/CalinRadoni.github.io)
+
+At work I am doing mostly system engineering, network administration, engineering and security.
+
+## About this page
+
+This page is based on a jinja template filled by a python script.
+
+## License
+
+This repository is licensed with the [MIT License](LICENSE).
