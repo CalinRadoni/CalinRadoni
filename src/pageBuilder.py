@@ -40,7 +40,7 @@ class PageData:
 
     def get_repo_namelink_md(self, repo, two_lines=False):
         """Returns a markdown formatted string with the name and the description of the repo."""
-        s = "[" + repo.name + "](" + repo.url + ")"
+        s = "[" + repo.name + "](" + repo.html_url + ")"
         if repo.description:
             if two_lines:
                 s = s + "<br/>*" + repo.description + "*"
