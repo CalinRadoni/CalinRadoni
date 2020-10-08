@@ -24,6 +24,8 @@ jobs:
 
       - name: Build the file
         run: python3 ./src/pageBuilder.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push created file
         run: |
