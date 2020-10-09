@@ -26,6 +26,7 @@ jobs:
         run: python3 ./src/pageBuilder.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
 
       - name: Push created file
         run: |
