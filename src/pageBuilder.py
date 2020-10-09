@@ -81,7 +81,16 @@ if __name__ == "__main__":
         sys.exit(1)
 
     g = Github(token)
-    repos = g.get_user().get_repos()
+    repo_owner = os.getenv("REPOSITORY_OWNER")
+    if repo_owner:
+        user = g.get_user(repo_owner)
+    else:
+        user = g.get_user()
+    print("Selected repository owner " + user.name)
+
+    repos = user.get_repos()
+    if repos:
+        print("Number of repositories is " + str(len(repos)))
 
     page_data = PageData(repos)
     page_data.create_output_data()
