@@ -90,7 +90,7 @@ if __name__ == "__main__":
 
     repos = user.get_repos()
     if repos:
-        print("Number of repositories is " + str(len(repos)))
+        print("Number of repositories is " + str(repos.totalCount))
 
     page_data = PageData(repos)
     page_data.create_output_data()
