@@ -1,6 +1,12 @@
 name: README Builder
 
-on: push
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # run every Monday at 05:00 UTC
+    - cron: '0 5 * * 1'
 
 jobs:
   builder:
