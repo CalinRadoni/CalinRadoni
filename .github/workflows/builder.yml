@@ -28,19 +28,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY_OWNER: ${{ github.repository_owner }}
 
-      - name: Check result
-        id: check-result
+      - name: Commit if needed
+        id: commit-result
         run: |
-          git diff --quiet --exit-code
-          if [ $? -eq 1 ]; then
+          if ! git diff --quiet --exit-code; then
+            git config --global user.name "${{ github.actor }}"
+            git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+            git add .
+            git commit -m "Automatic update from GitHub Action"
             echo '::set-output name=push_needed::true'
           fi
 
       - name: Push changes
-        if: steps.check-result.outputs.push_needed == 'true'
+        if: steps.commit-result.outputs.push_needed == 'true'
         run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git add .
-          git commit -m "Automatic update for GitHub Action"
           git push
