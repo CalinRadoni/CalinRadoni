@@ -25,9 +25,9 @@ At work I am doing mostly system engineering, network administration, engineerin
 
 ## About this page
 
-This repository contains a GitHub Action workflow that generates the README.md page.
-
-This page is based on a jinja2 template filled by a python script.
+![README Builder](https://github.com/CalinRadoni/CalinRadoni/workflows/README%20Builder/badge.svg)
+This repository contains a **GitHub Actions workflow** that generates the `README.md` page from a
+[Jinja2](https://palletsprojects.com/p/jinja) template using a [Python](https://www.python.org) script.
 
 For a fast start with Python development in Visual Studio Code see the [Python and VSCode 101](https://calinradoni.github.io/pages/201008-python-and-vscode-101.html) document.
 
