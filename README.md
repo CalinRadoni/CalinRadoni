@@ -9,7 +9,11 @@ Now I am working with ESP32, WS2812* LEDs and ESP-IDF. The current hardware and 
 - [pax-LampD1](https://github.com/CalinRadoni/pax-LampD1)<br/>*A lamp based on pax-DLED and 2 x 100 WS2812B LED strips*<br/>C++
 - [pax-Gateway](https://github.com/CalinRadoni/pax-Gateway)<br/>KiCad Layout
 
-For those I have built some ESP-IDF components like:
+For those I have built a GitHub Action as a side project:
+
+- [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell
+
+and some ESP-IDF components like:
 
 - [ESP32BoardManager](https://github.com/CalinRadoni/ESP32BoardManager) *Basic board manager with WiFi AP / STA mode, HTTP server and firmware OTA update*<br/>C++
 - [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 3 stars, one fork
