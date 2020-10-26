@@ -16,11 +16,10 @@ For those I have built a GitHub Action as a side project:
 and some ESP-IDF components like:
 
 - [ESP32BoardManager](https://github.com/CalinRadoni/ESP32BoardManager) *Basic board manager with WiFi AP / STA mode, HTTP server and firmware OTA update*<br/>C++
-- [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 3 stars, one fork
+- [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 4 stars, one fork
 - [ESP32HAL](https://github.com/CalinRadoni/ESP32HAL) *ESP32 HAL: helper C++ classes for some ESP32 generic peripherals (ADC, GPIO, I2C, SPI, ...)*<br/>C++, one star
 - [ESP32RMT](https://github.com/CalinRadoni/ESP32RMT) *Helper component for ESP32 Remote Control module*<br/>C++, one fork
 - [ESP32SimpleOTA](https://github.com/CalinRadoni/ESP32SimpleOTA) *Helper component for ESP32 Over The Air firmware updates*<br/>C++
-- [ESP32Timers](https://github.com/CalinRadoni/ESP32Timers) *Helper component for ESP32 Timers*<br/>C++
 
 
 Not as much as I want, I am writing about various subjects at [CalinRadoni.github.io](https://github.com/CalinRadoni/CalinRadoni.github.io)
