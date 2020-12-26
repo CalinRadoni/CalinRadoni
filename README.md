@@ -11,16 +11,15 @@ Now I am working with ESP32, WS2812* LEDs and ESP-IDF. The current hardware and 
 
 For those I have built a GitHub Action as a side project:
 
-- [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell
+- [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell, one star
 
 and some ESP-IDF components like:
 
 - [ESP32BoardManager](https://github.com/CalinRadoni/ESP32BoardManager) *Basic board manager with WiFi AP / STA mode, HTTP server and firmware OTA update*<br/>C++
-- [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 3 stars, one fork
-- [ESP32HAL](https://github.com/CalinRadoni/ESP32HAL) *ESP32 HAL: helper C++ classes for some ESP32 generic peripherals (ADC, GPIO, I2C, SPI, ...)*<br/>C++
+- [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 4 stars, one fork
+- [ESP32HAL](https://github.com/CalinRadoni/ESP32HAL) *ESP32 HAL: helper C++ classes for some ESP32 info (tasks, heap) and generic peripherals (ADC, GPIO, I2C, SPI, Timers, ...)*<br/>C++, 2 stars, one fork
 - [ESP32RMT](https://github.com/CalinRadoni/ESP32RMT) *Helper component for ESP32 Remote Control module*<br/>C++, one fork
 - [ESP32SimpleOTA](https://github.com/CalinRadoni/ESP32SimpleOTA) *Helper component for ESP32 Over The Air firmware updates*<br/>C++
-- [ESP32Timers](https://github.com/CalinRadoni/ESP32Timers) *Helper component for ESP32 Timers*<br/>C++
 
 
 Not as much as I want, I am writing about various subjects at [CalinRadoni.github.io](https://github.com/CalinRadoni/CalinRadoni.github.io)
