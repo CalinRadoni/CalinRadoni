@@ -9,8 +9,9 @@ Now I am working with ESP32, WS2812* LEDs and ESP-IDF. The current hardware and 
 - [pax-LampD1](https://github.com/CalinRadoni/pax-LampD1)<br/>*A lamp based on pax-DLED and 2 x 100 WS2812B LED strips*<br/>C++
 - [pax-Gateway](https://github.com/CalinRadoni/pax-Gateway)<br/>KiCad Layout
 
-For those I have built a GitHub Action as a side project:
+For those I have built two GitHub Actions as a side project:
 
+- [esp-idf-v4-container-action](https://github.com/CalinRadoni/esp-idf-v4-container-action) *GitHub Action to build your ESP32 code using the official Docker container from Espressif.*<br/>Dockerfile
 - [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell, one star
 
 and some ESP-IDF components like:
