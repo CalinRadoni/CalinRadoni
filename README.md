@@ -12,7 +12,7 @@ Now I am working with ESP32, WS2812* LEDs and ESP-IDF. The current hardware and 
 For those I have built two GitHub Actions as a side project:
 
 - [esp-idf-v4-container-action](https://github.com/CalinRadoni/esp-idf-v4-container-action) *GitHub Action to build your ESP32 code using the official Docker container from Espressif.*<br/>Dockerfile, 2 stars, one fork
-- [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell, 3 stars, 3 forks
+- [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell, 4 stars, 4 forks
 
 and some ESP-IDF components like:
 
