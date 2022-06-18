@@ -4,7 +4,14 @@
 
 and I like to build things.
 
-Now I am working with ESP32, WS2812* LEDs and ESP-IDF. The current hardware and software projects are:
+The newest projects are:
+
+{% set repo = info.get_repo("RobotT1") -%}
+- {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
+{% set repo = info.get_repo("ansible-ubuntu-workstation") -%}
+- {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
+
+I am also working with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
 
 {% set repo = info.get_repo("pax-LampD1") -%}
 - {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
