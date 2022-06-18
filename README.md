@@ -4,7 +4,12 @@
 
 and I like to build things.
 
-Now I am working with ESP32, WS2812* LEDs and ESP-IDF. The current hardware and software projects are:
+The newest projects are:
+
+- [RobotT1](https://github.com/CalinRadoni/RobotT1)<br/>*A Telegram Bot hosted on a ESP32 board with esp32-camera and some sensors*<br/>C++
+- [ansible-ubuntu-workstation](https://github.com/CalinRadoni/ansible-ubuntu-workstation)<br/>*Roles meant to be used after a basic Ubuntu installation: custom keyboard layouts, vscode and extensions, dconf and common ones*<br/>Python
+
+I am also working with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
 
 - [pax-LampD1](https://github.com/CalinRadoni/pax-LampD1)<br/>*A lamp based on pax-DLED and 2 x 100 WS2812B LED strips*<br/>C++, one star, one fork
 - [pax-Gateway](https://github.com/CalinRadoni/pax-Gateway)<br/>KiCad Layout, one fork
