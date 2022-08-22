@@ -25,7 +25,7 @@ and some ESP-IDF components like:
 - [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 9 stars, 4 forks
 - [ESP32HAL](https://github.com/CalinRadoni/ESP32HAL) *ESP32 HAL: helper C++ classes for some ESP32 info (tasks, heap) and generic peripherals (ADC, GPIO, I2C, SPI, Timers, ...)*<br/>C++, 4 stars, 3 forks
 - [ESP32RMT](https://github.com/CalinRadoni/ESP32RMT) *Helper component for ESP32 Remote Control module*<br/>C++, one star, 2 forks
-- [ESP32SimpleOTA](https://github.com/CalinRadoni/ESP32SimpleOTA) *Helper component for ESP32 Over The Air firmware updates*<br/>C++, one fork
+- [ESP32SimpleOTA](https://github.com/CalinRadoni/ESP32SimpleOTA) *Helper component for ESP32 Over The Air firmware updates*<br/>C++, one star, one fork
 
 
 Not as much as I want, I am writing about various subjects at [CalinRadoni.github.io](https://github.com/CalinRadoni/CalinRadoni.github.io)
