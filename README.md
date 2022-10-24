@@ -6,7 +6,7 @@ and I like to build things.
 
 The newest projects are:
 
-- [RobotT1](https://github.com/CalinRadoni/RobotT1)<br/>*A Telegram Bot hosted on a ESP32 board with esp32-camera and some sensors*<br/>C++
+- [RobotT1](https://github.com/CalinRadoni/RobotT1)<br/>*A Telegram Bot hosted on a ESP32 board with esp32-camera and some sensors*<br/>C++, one star
 - [ansible-ubuntu-workstation](https://github.com/CalinRadoni/ansible-ubuntu-workstation)<br/>*Roles meant to be used after a basic Ubuntu installation: custom keyboard layouts, vscode and extensions, dconf and common ones*<br/>Python
 
 I am also working with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
