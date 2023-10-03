@@ -43,9 +43,11 @@ jobs:
             git add --all
             git commit -m "Automatic update by GitHub Actions workflow"
             echo "push_needed=true" >> "$GITHUB_ENV"
+          else
+            echo "push_needed=false" >> "$GITHUB_ENV"
           fi
 
       - name: Push changes
-        if: "$push_needed" == 'true'
+        if: ${{ env.push_needed == 'true' }}
         run: |
           git push
