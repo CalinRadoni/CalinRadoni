@@ -6,7 +6,14 @@ and I like to build things.
 
 The newest projects are:
 
+{% set repo = info.get_repo("CreamCSS") -%}
+- {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
 {% set repo = info.get_repo("RobotT1") -%}
+- {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
+
+and because some scripts may be worth keeping around:
+
+{% set repo = info.get_repo("Scripts") -%}
 - {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
 {% set repo = info.get_repo("ansible-ubuntu-workstation") -%}
 - {{ info.get_repo_namelink_md(repo, True) }}<br/>{{ info.get_repo_info(repo) }}
