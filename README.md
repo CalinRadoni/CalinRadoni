@@ -39,7 +39,7 @@ At work I am doing mostly system engineering, network administration, engineerin
 
 ## About this page
 
-[![README Builder](https://github.com/CalinRadoni/CalinRadoni/actions/workflows/builder.yml/badge.svg)](https://github.com/CalinRadoni/CalinRadoni/actions/workflows/builder.yml)[![README Builder](https://github.com/CalinRadoni/CalinRadoni/actions/workflows/builder.yml/badge.svg)](https://github.com/CalinRadoni/CalinRadoni/actions/workflows/builder.yml)
+[![README Builder](https://github.com/CalinRadoni/CalinRadoni/actions/workflows/builder.yml/badge.svg)](https://github.com/CalinRadoni/CalinRadoni/actions/workflows/builder.yml)
 This repository contains a **GitHub Actions workflow** that generates the `README.md` page from a
 [Jinja2](https://palletsprojects.com/p/jinja) template using a [Python](https://www.python.org) script.
 
