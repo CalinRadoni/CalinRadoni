@@ -6,7 +6,7 @@ and I like to build things.
 
 The newest projects are:
 
-- [CreamCSS](https://github.com/CalinRadoni/CreamCSS)<br/>*Lightweight, Classless, HTML Semantic Elements, Responsive, Mobile First CSS framework*<br/>CSS, one star
+- [CreamCSS](https://github.com/CalinRadoni/CreamCSS)<br/>*Lightweight, Classless, HTML Semantic Elements, Responsive, Mobile First CSS framework*<br/>CSS, 2 stars
 - [RobotT1](https://github.com/CalinRadoni/RobotT1)<br/>*A Telegram Bot hosted on a ESP32 board with esp32-camera and some sensors*<br/>C++, one star
 
 and because some scripts may be worth keeping around:
