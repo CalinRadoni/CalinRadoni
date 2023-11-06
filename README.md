@@ -11,7 +11,7 @@ The newest projects are:
 
 and because some scripts may be worth keeping around:
 
-- [Scripts](https://github.com/CalinRadoni/Scripts)<br/>Shell
+- [Scripts](https://github.com/CalinRadoni/Scripts)<br/>*Scripts that I consider useful and worth keeping around*<br/>Shell
 - [ansible-ubuntu-workstation](https://github.com/CalinRadoni/ansible-ubuntu-workstation)<br/>*Roles meant to be used after a basic Ubuntu installation: custom keyboard layouts, vscode and extensions, dconf and common ones*<br/>Python
 
 I am also working with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
