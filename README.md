@@ -4,7 +4,10 @@
 
 and I like to build things.
 
-The newest projects are:
+The newest project was the rebuilding of [calinradoni.github.io](https://calinradoni.github.io/)
+using Astro and a custom CSS with responsive typography.
+
+Before that I've built:
 
 - [CreamCSS](https://github.com/CalinRadoni/CreamCSS)<br/>*Lightweight, Classless, HTML Semantic Elements, Responsive, Mobile First CSS framework*<br/>CSS, 3 stars
 - [RobotT1](https://github.com/CalinRadoni/RobotT1)<br/>*A Telegram Bot hosted on a ESP32 board with esp32-camera and some sensors*<br/>C++, one star
@@ -14,7 +17,7 @@ and because some scripts may be worth keeping around:
 - [Scripts](https://github.com/CalinRadoni/Scripts)<br/>*Scripts that I consider useful and worth keeping around*<br/>Shell
 - [ansible-ubuntu-workstation](https://github.com/CalinRadoni/ansible-ubuntu-workstation)<br/>*Roles meant to be used after a basic Ubuntu installation: custom keyboard layouts, vscode and extensions, dconf and common ones*<br/>Python
 
-I am also working with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
+I am also ~~working~~ *playing* with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
 
 - [pax-LampD1](https://github.com/CalinRadoni/pax-LampD1)<br/>*A lamp based on pax-DLED and 2 x 100 WS2812B LED strips*<br/>C++, one star, one fork
 - [pax-Gateway](https://github.com/CalinRadoni/pax-Gateway)<br/>KiCad Layout, one fork
