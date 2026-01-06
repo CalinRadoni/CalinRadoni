@@ -1,6 +1,6 @@
 # Hi, I am Calin Radoni
 
-**... and I know that I should insert a nice image here** &#x1F643;
+**... and I know that I should insert a nice image here** :sunglasses:
 
 and I like to build things.
 
@@ -9,8 +9,8 @@ using Astro and a custom CSS with responsive typography.
 
 Before that I've built:
 
-- [CreamCSS](https://github.com/CalinRadoni/CreamCSS)<br/>*Lightweight, Classless, HTML Semantic Elements, Responsive, Mobile First CSS framework*<br/>CSS, 3 stars
-- [RobotT1](https://github.com/CalinRadoni/RobotT1)<br/>*A Telegram Bot hosted on a ESP32 board with esp32-camera and some sensors*<br/>C++, one star
+- [CreamCSS](https://github.com/CalinRadoni/CreamCSS)<br/>*Lightweight, Classless, HTML Semantic Elements, Responsive, Mobile First CSS framework*<br/>CSS, 3 :star2:
+- [RobotT1](https://github.com/CalinRadoni/RobotT1)<br/>*A Telegram Bot hosted on a ESP32 board with esp32-camera and some sensors*<br/>C++, one :star:
 
 and because some scripts may be worth keeping around:
 
@@ -19,21 +19,21 @@ and because some scripts may be worth keeping around:
 
 I am also ~~working~~ *playing* with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
 
-- [pax-LampD1](https://github.com/CalinRadoni/pax-LampD1)<br/>*A lamp based on pax-DLED and 2 x 100 WS2812B LED strips*<br/>C++, one star, one fork
+- [pax-LampD1](https://github.com/CalinRadoni/pax-LampD1)<br/>*A lamp based on pax-DLED and 2 x 100 WS2812B LED strips*<br/>C++, one :star:, one fork
 - [pax-Gateway](https://github.com/CalinRadoni/pax-Gateway)<br/>KiCad Layout, one fork
 
 For those I have built two GitHub Actions as a side project:
 
-- [esp-idf-v4-container-action](https://github.com/CalinRadoni/esp-idf-v4-container-action) *GitHub Action to build your ESP32 code using the official Docker container from Espressif.*<br/>Dockerfile, 3 stars, 5 forks
-- [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell, 5 stars, 6 forks
+- [esp-idf-v4-container-action](https://github.com/CalinRadoni/esp-idf-v4-container-action) *GitHub Action to build your ESP32 code using the official Docker container from Espressif.*<br/>Dockerfile, 3 :star2:, 5 forks
+- [esp-idf-v4-action](https://github.com/CalinRadoni/esp-idf-v4-action) *GitHub Action to build your ESP32 firmware with ESP-IDF development framework v4.x*<br/>Shell, 5 :star2:, 6 forks
 
 and some ESP-IDF components like:
 
-- [ESP32BoardManager](https://github.com/CalinRadoni/ESP32BoardManager) *Basic board manager with WiFi AP / STA mode, HTTP server and firmware OTA update*<br/>C++, 10 stars, 3 forks
-- [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 15 stars, 6 forks
-- [ESP32HAL](https://github.com/CalinRadoni/ESP32HAL) *ESP32 HAL: helper C++ classes for some ESP32 info (tasks, heap) and generic peripherals (ADC, GPIO, I2C, SPI, Timers, ...)*<br/>C++, 7 stars, 5 forks
-- [ESP32RMT](https://github.com/CalinRadoni/ESP32RMT) *Helper component for ESP32 Remote Control module*<br/>C++, one star, 2 forks
-- [ESP32SimpleOTA](https://github.com/CalinRadoni/ESP32SimpleOTA) *Helper component for ESP32 Over The Air firmware updates*<br/>C++, 3 stars, one fork
+- [ESP32BoardManager](https://github.com/CalinRadoni/ESP32BoardManager) *Basic board manager with WiFi AP / STA mode, HTTP server and firmware OTA update*<br/>C++, 10 :star2:, 3 forks
+- [ESP32DLEDController](https://github.com/CalinRadoni/ESP32DLEDController) *ESP32 controller for WS2812 LEDs*<br/>C++, 15 :star2:, 6 forks
+- [ESP32HAL](https://github.com/CalinRadoni/ESP32HAL) *ESP32 HAL: helper C++ classes for some ESP32 info (tasks, heap) and generic peripherals (ADC, GPIO, I2C, SPI, Timers, ...)*<br/>C++, 7 :star2:, 5 forks
+- [ESP32RMT](https://github.com/CalinRadoni/ESP32RMT) *Helper component for ESP32 Remote Control module*<br/>C++, one :star:, 2 forks
+- [ESP32SimpleOTA](https://github.com/CalinRadoni/ESP32SimpleOTA) *Helper component for ESP32 Over The Air firmware updates*<br/>C++, 3 :star2:, one fork
 
 
 Not as much as I want, I am writing about various subjects at [CalinRadoni.github.io](https://github.com/CalinRadoni/CalinRadoni.github.io)
