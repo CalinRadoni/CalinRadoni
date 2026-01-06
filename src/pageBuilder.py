@@ -53,9 +53,9 @@ class PageData:
         s = repo.language
         if repo.stargazers_count > 0:
             if repo.stargazers_count == 1:
-                s = s + ", one star"
+                s = s + ", one :star:"
             else:
-                s = s + ", " + str(repo.stargazers_count) + " stars"
+                s = s + ", " + str(repo.stargazers_count) + " :star2:"
         if repo.forks_count > 0:
             if repo.forks_count == 1:
                 s = s + ", one fork"
