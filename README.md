@@ -20,7 +20,7 @@ and because some scripts may be worth keeping around:
 I am also ~~working~~ *playing* with ESP32, WS2812* LEDs and ESP-IDF, for those the current hardware and software projects are:
 
 - [pax-LampD1](https://github.com/CalinRadoni/pax-LampD1)<br/>*A lamp based on pax-DLED and 2 x 100 WS2812B LED strips*<br/>C++, one :star:, one fork
-- [pax-Gateway](https://github.com/CalinRadoni/pax-Gateway)<br/>KiCad Layout, one fork
+- [pax-Gateway](https://github.com/CalinRadoni/pax-Gateway)<br/>KiCad Layout
 
 For those I have built two GitHub Actions as a side project:
 
